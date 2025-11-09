@@ -12,7 +12,7 @@
             <h1>hello</h1>
         </div>
         <form action="" method="post">
-            
+            <button type="submit">Submit</button>
         </form>
     </section>
 </body>
